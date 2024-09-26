@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 <div id="header" align="left">
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2oxNGNzdnJ6eXAwbmtxN2F3czVuZmhmM2xzbWdxbmpnOHFlN2E3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="100" />
+  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2oxNGNzdnJ6eXAwbmtxN2F3czVuZmhmM2xzbWdxbmpnOHFlN2E3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="500" />
 </div>
 <!--
 **MrKery/MrKery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
