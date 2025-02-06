@@ -3,10 +3,12 @@
 <div id="header" align="left">
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2oxNGNzdnJ6eXAwbmtxN2F3czVuZmhmM2xzbWdxbmpnOHFlN2E3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" />
 </div>
+
 <div id="badges" align="right">
   <a href="https://t.me/kerolli">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Link">
   </a>
+  
 </div>
 
   ---
@@ -33,6 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+  ---
+  ###
+  <img src="https://www.codewars.com/users/MrKery/badges/large">
 
 <!---
 **MrKery/MrKery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
